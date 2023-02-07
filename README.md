@@ -5,7 +5,7 @@ library to perform real-time object detection and tracking, allowing for precise
 Implemented algorithms to distinguish between hand gestures, allowing for easy and intuitive control.
 This project demonstrated the potential for using AI in creating more natural and efficient human-computer interaction.
 
-The main file that contains all the written algorith to detect the hand gesture and control the cursor is present in : [AI_Virtual_Mouse.py](https://github.com/SwatantraJain-02/AI_Mouse_Tracker/blob/main/AI_Virtual_Mouse.py)
+The main file that contains all the written algorith to detect the hand gesture and control the cursor is present in [AI_Virtual_Mouse.py](https://github.com/SwatantraJain-02/AI_Mouse_Tracker/blob/main/AI_Virtual_Mouse.py)
 
 In [AI_Virtual_Mouse.py](https://github.com/SwatantraJain-02/AI_Mouse_Tracker/blob/main/AI_Virtual_Mouse.py), a manual-written module is used ([HandDetectionModule.py](https://github.com/SwatantraJain-02/AI_Mouse_Tracker/blob/main/HandDetectionModule.py)). You must download this file before using the main file.
 
